@@ -2,7 +2,7 @@
 
 https://kilcannon.github.io/burger/
 
-### Welcome to my super awesome Friend Finder Express App!
+### Welcome to my super awesome Burger Maker App!
 This app gives you the ability to match yourself with a potential friend, depending on your responses to questions.
 
 Technology includes:
