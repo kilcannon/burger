@@ -14,7 +14,7 @@ Javascript
 + HTML
 + CSS
 
-### Theme: Keepin' it thirsty with Node-tastic friend finding!
+### Theme: Keepin' it hungry with Node-tastic burger fun!
 
 ### Current features include:
 + Ability to add a burger order
