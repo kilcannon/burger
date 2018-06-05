@@ -6,3 +6,27 @@
 	width: 200px;
 	margin: auto;
 }
+
+.container {
+	font-family: 'Abel', sans-serif;
+}
+
+.form-control {
+	width: 600px;
+	height: 75px;
+	margin: auto;
+}
+
+h2 {
+	color: #c42121;
+	font-family: 'Abel', sans-serif !important;
+}
+
+h3 {
+	color: #c42121;
+	font-family: 'Abel', sans-serif !important;
+}
+
+body {
+	background-color: #d1e1f9;
+}
