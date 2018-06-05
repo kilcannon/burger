@@ -1,3 +1,8 @@
 .devour {
   margin: -5px;
 }
+
+.btn-success {
+	width: 200px;
+	margin: auto;
+}
