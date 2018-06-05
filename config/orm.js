@@ -1,4 +1,3 @@
-// require the database connection
 var connection = require('./connection.js');
 
 module.exports = {
