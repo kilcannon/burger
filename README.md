@@ -3,7 +3,7 @@
 https://kilcannon.github.io/burger/
 
 ### Welcome to my super awesome Burger Maker App!
-This app gives you the ability to match yourself with a potential friend, depending on your responses to questions.
+This app gives you the ability to creat a burger and consume it!  You'll be able to then see the glutton you are by having a persisting list of all consumed food.
 
 Technology includes:
 
